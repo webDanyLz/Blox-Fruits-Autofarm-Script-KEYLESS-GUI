@@ -1,0 +1,15 @@
+.list-group{
+    --bs-list-group-bg:transparent;
+}
+.fa-linkedin.fa-2x:hover {
+    --bs-text-opacity: 1;
+    color: #0d7ce4 !important;
+}
+.fa-facebook.fa-2x:hover{
+    --bs-text-opacity: 1;
+    color: #58df1a !important; 
+}
+.fa-twitter.fa-2x:hover{
+    --bs-text-opacity: 1;
+    color: #b516ca !important; 
+}
